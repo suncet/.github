@@ -1,4 +1,4 @@
-# Organization stuff
+# SunCET Code Standards
 
 Below are the standards that the team is aspiring to maintain. The principle underlying all of it is: ease. We want to maximize ease of reading the code, contributing to it, and understanding/accessing the data products. 
 
