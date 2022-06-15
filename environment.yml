@@ -1,0 +1,16 @@
+name: suncet
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - pip
+  - numpy
+  - matplotlib
+  - jupyter
+  - scipy
+  - astropy
+  - sunpy
+  - seaborn
+
+prefix: ~/anaconda3
