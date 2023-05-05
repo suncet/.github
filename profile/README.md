@@ -5,6 +5,7 @@ Below are the standards that the team is aspiring to maintain. The principle und
 1. Written in python 3, following PEP8
 2. Missing/bad data flag is NaN. Not 0. Not -1. Certainly not a combination of different things. Consistent across all data levels. 
 3. Clean Code practices will be followed as much as possible. 
+   * Classes should usually be nouns, functions usually verbs
    * Variable names are verbose but concise to their scope
    * Functions should only be a few lines long each (e.g., roughly < 10)
    * The level of abstraction of every line of code should correspond to its neighboring lines of code
